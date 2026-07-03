@@ -1,3 +1,5 @@
+#GENERATE RANDOM PASSWORD
+
 import random
 import string
 
